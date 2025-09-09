@@ -80,6 +80,18 @@ Modern businesses invest heavily in marketing, but understanding which campaigns
 
 ---
 
+## Dashboard Visualization
+
+Below is a snapshot of the interactive Tableau dashboard summarizing key metrics and segmentation findings from the analysis.
+
+![Dashboard Image](<img width="1919" height="981" alt="dashboard" src="https://github.com/user-attachments/assets/204cc7c5-97bb-4b5d-96cd-48ff589c77fe" />
+)
+
+**Explore the full dashboard:**  
+[View on Tableau Public](https://public.tableau.com/views/MarketingCampaign_17574328911850/MarketingCampaignDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## Skills Demonstrated
 
 - **Data Analysis & Visualization:** Utilized Python (Pandas, Matplotlib, Seaborn) for in-depth EDA and reporting.
