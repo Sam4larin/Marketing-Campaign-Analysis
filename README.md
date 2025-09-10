@@ -84,7 +84,8 @@ Modern businesses invest heavily in marketing, but understanding which campaigns
 
 Below is a snapshot of the interactive Tableau dashboard summarizing key metrics and segmentation findings from the analysis.
 
-Dashboard Image<img width="1919" height="981" alt="dashboard" src="https://github.com/user-attachments/assets/9f43ed08-0936-48c0-82c6-65df84ad78f9" />
+## 📸 Dashboard Preview
+<img width="1919" height="981" alt="dashboard" src="https://github.com/user-attachments/assets/9f43ed08-0936-48c0-82c6-65df84ad78f9" />
 
 **Explore the full dashboard:**  
 [View on Tableau Public](https://public.tableau.com/views/MarketingCampaign_17574328911850/MarketingCampaignDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
